@@ -9,6 +9,7 @@
 -----------------------
 ### <center>Network</center>
 - [네트워크 구조](Network/네트워크%20구조.md)
+- [LAN과 WAN](Network/LAN과%20WAN.md)
 -----------------------
 ### <center>DB</center>
 
