@@ -10,9 +10,13 @@
 ### <center>Network</center>
 - [네트워크 구조](Network/네트워크%20구조.md)
 - [LAN과 WAN](Network/LAN과%20WAN.md)
+- [프로토콜](Network/프로토콜.md)
+- [OSI 모델](Network/OSI모델.md)
+- [TCP/IP](Network/TCP-IP.md)
 -----------------------
 ### <center>DB</center>
 
 -----------------------
 #### In Progress
 - OS - 컴퓨터 시스템의 구성
+- Network - OSI, TCP/IP
