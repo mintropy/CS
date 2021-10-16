@@ -16,6 +16,7 @@
 - [프로토콜](Network/프로토콜.md)
 - [OSI 모델](Network/OSI모델.md)
 - [TCP/IP](Network/TCP-IP.md)
+- [캡슐화 역캡슐화](Network/캡슐화%20역캡슐화.md)
 -----------------------
 ### <center>DB</center>
 - [데이터베이스](Database/데이터베이스.md)
@@ -24,3 +25,4 @@
 - OS - 컴퓨터 시스템의 구성
 - OS - 시스템 콜
 - Network - OSI, TCP/IP
+- Network - 캡슐화/역캡슐화
