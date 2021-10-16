@@ -21,6 +21,7 @@
 ### <center>DB</center>
 - [데이터베이스](Database/데이터베이스.md)
 - [데이터베이스 설계와 ER 다이어그램](Database/데이터베이스%20설계와%20ER%20다이어그램.md)
+- [관계모델](Database/관계모델.md)
 -----------------------
 #### In Progress
 - OS - 컴퓨터 시스템의 구성
@@ -28,3 +29,4 @@
 - Network - OSI, TCP/IP
 - Network - 캡슐화/역캡슐화
 - DB - ER다이어그램 (각 다이어그램 그림 추가하며 작성하기)
+- DB - 관계모델
