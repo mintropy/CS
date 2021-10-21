@@ -26,6 +26,7 @@
 #### In Progress
 - OS - 컴퓨터 시스템의 구성
 - OS - 시스템 콜
+- OS - 인터럽트
 - Network - OSI, TCP/IP
 - Network - 캡슐화/역캡슐화
 - DB - ER다이어그램 (각 다이어그램 그림 추가하며 작성하기)
