@@ -19,6 +19,7 @@
 - [캡슐화 역캡슐화](Network/캡슐화%20역캡슐화.md)
 
 - [HTTP](Network/HTTP.md)
+- [REST API](Network/REST%20API.md)
 -----------------------
 ### <center>DB</center>
 - [데이터베이스](Database/데이터베이스.md)
@@ -31,5 +32,6 @@
 - OS - 인터럽트
 - Network - OSI, TCP/IP
 - Network - 캡슐화/역캡슐화
+- Network - REST API
 - DB - ER다이어그램 (각 다이어그램 그림 추가하며 작성하기)
 - DB - 관계모델
