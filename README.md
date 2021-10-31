@@ -30,6 +30,7 @@
 - [CRUD](Django/Django%20CRUD.md)
     - [Model Field](Django/Django%20Model%20Field.md)
 - [Admin](Django/Django%20Admin.md)
+- [Form](Django/Django%20Form.md)
 
 - [REST API](Django/Django%20REST%20API.md)
 -----------------------
