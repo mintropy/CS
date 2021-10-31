@@ -26,6 +26,13 @@
 - [데이터베이스 설계와 ER 다이어그램](Database/데이터베이스%20설계와%20ER%20다이어그램.md)
 - [관계모델 CRUD](Database/관계모델.md)
 -----------------------
+### <center>Django</center>
+- [CRUD](Django/Django%20CRUD.md)
+    - [Model Field](Django/Django%20Model%20Field.md)
+- [Admin](Django/Django%20Admin.md)
+
+- [REST API](Django/Django%20REST%20API.md)
+-----------------------
 #### In Progress
 - OS - 컴퓨터 시스템의 구성
 - OS - 시스템 콜

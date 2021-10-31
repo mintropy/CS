@@ -8,7 +8,8 @@ class Article(models.Model):
 ```
 - 각 모델은 django.db.models.Model 클래스를 상속받아 서브 클래스로 표현
 - 각 필드는 models의 다양한 Field로 나타냄
-  - [Django Model Fields](https://docs.djangoproject.com/en/3.2/ref/models/fields/)
+  - [Django Model Fields](https://docs.djangoproject.com/en/3.2/ref/models/fields/) : Django Documnet
+  - [Django Model Field 정리글](Django%20Model%20Field.md)
 - 각 모델 작성 후 migration 필요함
 ```bash
 $ python manage.py makemigrations
@@ -30,6 +31,7 @@ Article.objects.get(pk=100)
 # 특정 조건을 만족하는 새 QuerySet 반환
 Article.objects.filter(title='title')
 ```
+- [QuerySet API Reference](https://docs.djangoproject.com/en/3.2/ref/models/querysets/)
 
 #### 4. CREATE
 ```python
