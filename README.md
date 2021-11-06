@@ -37,6 +37,7 @@
 ### <center>JavaScript</center>
 - [자료형](JavaScript/JavaScript%20자료형.md)
 - [조건문, 반복문](JavaScript/JavsScript%20조건문,%20반복문.md)
+- [함수](JavaScript/JavaScript%20함수.md)
 
 ### <center>Vue.js</center>
 - [Vue.js](Vue.js/Vue.js.md)
