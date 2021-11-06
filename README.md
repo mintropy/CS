@@ -34,6 +34,10 @@
 
 - [REST API](Django/Django%20REST%20API.md)
 -----------------------
+### <center>JavaScript</center>
+- [자료형](JavaScript/JavaScript%20자료형.md)
+-
+
 ### <center>Vue.js</center>
 - [Vue.js](Vue.js/Vue.js.md)
 - [Directive](Vue.js/Vue.js%20Directive.md)
