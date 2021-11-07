@@ -42,6 +42,7 @@
 - [객체](JavaScript/JavaScript%20객체.md)
 
 - [DOM 조작](JavaScript/JavaScript%20DOM조작.md)
+- [AJAX](JavaScript/JavaScript%20AJAX.md)
 
 ### <center>Vue.js</center>
 - [Vue.js](Vue.js/Vue.js.md)
