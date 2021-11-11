@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "47248b215f30787a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6fc9f70811d59f8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2ce2f1533e27f0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d6bbd8e2555ff2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cf246183452cb3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6b1ce31df1fc98f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "467ced1fc749f65d",
+    "type": "split",
+    "children": [
+      {
+        "id": "30f12e40891c1d3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b12bc5b36e8c3a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c6fc9f70811d59f8",
+  "lastOpenFiles": [
+    "README.md",
+    "OS/운영체제 구조/운영체제 서비스.md"
+  ]
+}
