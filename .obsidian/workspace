@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "c6fc9f70811d59f8",
+        "id": "c7ff09f34a81c5d2",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -82,9 +82,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6fc9f70811d59f8",
+  "active": "c7ff09f34a81c5d2",
   "lastOpenFiles": [
+    "OS/프로세스/프로세스와 스레드.md",
     "README.md",
+    "Network/LAN과 WAN.md",
     "OS/운영체제 구조/운영체제 서비스.md"
   ]
 }
