@@ -7,5 +7,10 @@
 5. 물리적 데이터베이스 설계 : DB가 지원해야 할 예상 작업량 고려, 성능기준에 맞도록 설계
 6. 응용 및 보안설계
 
-### ER 다이어그램 (Entitly Relationship)
+### ER 다이어그램 (Entitly Relationship Diagram)
+- 개체-관계 모델에서 그 형태를 사람이 이해할 수 있도록 나타낸 관계도
 
+### 개체-관계 모델(Entitly Relationship Model)
+- 구조화된 데이터를 저장하기 위한 데이터 베이스를 나타내는 기법 중 하나
+
+1. 개체(entity):
