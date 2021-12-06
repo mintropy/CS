@@ -2,7 +2,7 @@
 - ISO(International Organization of Standardization, 국제 표준화기구)에서 제정한 표준 규격
 - 물리, 데이터 링크, 네트워크, 전송, 세션 표현, 응용 계층으로 구성
 
-1. 물리 계층(Physical Layer)
+1. [물리 계층(Physical Layer)](OSI모델%20물리계층.md)
    - 시스템 간의 물리적 연결, 전기적 신호 변환 및 제어
 2. 데이터 링크 계층(Data Link Layer)
    - 네트워크 기기간의 데이터 전송 및 물리 주소 결정

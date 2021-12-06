@@ -15,6 +15,7 @@
 - [LAN과 WAN](Network/LAN과%20WAN.md)
 - [프로토콜](Network/프로토콜.md)
 - [OSI 모델](Network/OSI모델.md)
+    - [물리계층](Network/OSI모델%20물리계층.md)
 - [TCP/IP](Network/TCP-IP.md)
 - [캡슐화 역캡슐화](Network/캡슐화%20역캡슐화.md)
 
