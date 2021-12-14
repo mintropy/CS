@@ -33,6 +33,9 @@
 ### <center>Web</center>
 - [RESTFul API](Web/RESTFul%20API.md)
 -----------------------
+### <center>AI</center>
+- [퍼셉트론](AI/퍼셉트론.md)
+-----------------------
 ### <center>Django</center>
 - [CRUD](Django/Django%20CRUD.md)
     - [Model Field](Django/Django%20Model%20Field.md)
