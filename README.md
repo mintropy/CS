@@ -29,6 +29,7 @@
 - [관계모델 CRUD](Database/관계모델.md)
 - [SQL](Database/SQL.md)
 - [SQL 문법](database/SQL%20문법.md)
+- [옵티마이저](Database/옵티마이저.md)
 -----------------------
 ### <center>Web</center>
 - [RESTFul API](Web/RESTFul%20API.md)
