@@ -36,6 +36,7 @@
 -----------------------
 ### <center>AI</center>
 - [퍼셉트론](AI/퍼셉트론.md)
+- [지도학습, 비지도학습](AI/지도학습,%20비지도학습.md)
 -----------------------
 ### <center>Django</center>
 - [CRUD](Django/Django%20CRUD.md)
