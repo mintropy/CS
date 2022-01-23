@@ -47,6 +47,8 @@
 - [Form](Django/Django%20Form.md)
 
 - [REST API](Django/Django%20REST%20API.md)
+- [drf-spectacular](Django/drf-spectacular.md)
+    - [drf-spectacular @extend_schema](Django/drf-spectacular%20extend_schema.md)
 -----------------------
 ### <center>JavaScript</center>
 - [자료형](JavaScript/JavaScript%20자료형.md)
