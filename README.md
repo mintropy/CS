@@ -69,3 +69,4 @@
 -----------------------
 ### <center>GraphQL</center>
 - [GraphQL](GraphQL/GraphQL.md)
+- [Strawberry](GraphQL/Strawberry.md)
