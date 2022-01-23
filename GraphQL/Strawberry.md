@@ -3,6 +3,31 @@
     - [Python Data Classes](https://realpython.com/python-data-classes/)
     - [Python Type Hint](https://docs.python.org/3/library/typing.html)
 
+## Getting Started
+
+#### Define schema
+```python
+import typing
+import strawberry
+
+@strawberry.type
+class Book:
+    title: str
+    author: str
+
+@strawberry.type
+class Query:
+    books: typing.List[Book]
+```
+
+- 모든 GraphQL 서버는 schema를 정의하여 클라이언트가 query를 할 수 있게함
+
+#### Define data set
+- 다양한 데이터에 대응할 수 있음
+
+#### Define resolver
+- resolver를 활용하여 더욱 정확한 query가능하게 함
+
 ## Getting Started with Django
 - GraphQLView는 다섯가지 옵션이 있음
 
