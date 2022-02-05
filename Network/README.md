@@ -8,10 +8,10 @@
 - [HTTP](HTTP.md)
 
 ## ● OSI
-- [OSI 모델](OSI모델.md)
-    - [물리 계층](OSI모델%20물리계층.md)
-    - [데이터링크 계층](OSI모델%20데이터링크계층.md)
-    - [네트워크 계층](OSI모델%20네트워크%20계층.md)
+- [OSI 모델](OSI/OSI모델.md)
+    - [물리 계층](OSI/OSI모델%20물리계층.md)
+    - [데이터링크 계층](OSI/OSI모델%20데이터링크계층.md)
+    - [네트워크 계층](OSI/OSI모델%20네트워크%20계층.md)
 
 ## ● REST/OAS
 - [REST API](REST%20API.md)
