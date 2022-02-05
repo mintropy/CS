@@ -11,7 +11,7 @@
 - [GraphQL](GraphQL/README.md)
 ---
 ## Programming
-- Programming
+- [Programming](programming/README.md)
 ---
 ## Techknowledge
 - [AI](AI/README.md)

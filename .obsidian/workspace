@@ -7,8 +7,13 @@
         "id": "40cd839e42a6eff9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "programming/디자인 패턴/GoF/GoF디자인 패턴.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,7 +70,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "programming/디자인 패턴/GoF/GoF디자인 패턴.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -74,21 +80,40 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ce0288b8911360ae",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "675246a4a290e474",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "40cd839e42a6eff9",
   "lastOpenFiles": [
+    "programming/디자인 패턴/GoF/GoF디자인 패턴.md",
+    "README.md",
+    "programming/디자인 패턴/디자인 패턴.md",
+    "programming/README.md",
     "Network/README.md",
     "Django/drf-spectacular.md",
     "Django/Django CRUD.md",
     "OS/프로세스/프로세스와 스레드.md",
-    "README.md",
     "Network/LAN과 WAN.md",
     "OS/운영체제 구조/운영체제 서비스.md"
   ]
