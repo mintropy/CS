@@ -7,12 +7,8 @@
         "id": "40cd839e42a6eff9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Django/drf-spectacular.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/drf-spectacular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "40cd839e42a6eff9",
   "lastOpenFiles": [
+    "Network/README.md",
     "Django/drf-spectacular.md",
     "Django/Django CRUD.md",
     "OS/프로세스/프로세스와 스레드.md",
