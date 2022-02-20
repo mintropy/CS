@@ -1,4 +1,6 @@
-## OSI 모델
+# OSI 모델
+**tags** : #network #OSI
+
 - ISO(International Organization of Standardization, 국제 표준화기구)에서 제정한 표준 규격
 - 물리, 데이터 링크, 네트워크, 전송, 세션 표현, 응용 계층으로 구성
 

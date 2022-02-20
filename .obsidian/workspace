@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/디자인 패턴/GoF/생성 패턴/생성 패턴.md",
+            "file": "Network/OSI/OSI모델.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/디자인 패턴/GoF/생성 패턴/생성 패턴.md",
+                "file": "Network/OSI/OSI모델.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,19 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344
   },
   "active": "6e8fbf024fd81875",
   "lastOpenFiles": [
-    "programming/디자인 패턴/GoF/생성 패턴/생성 패턴.md",
-    "programming/디자인 패턴/GoF/생성 패턴/추상 팩토리.md.md",
-    "programming/디자인 패턴/GoF/GoF디자인 패턴.md",
+    "Network/OSI/OSI모델.md",
+    "Network/LAN과 WAN.md",
+    "Network/HTTP.md",
+    "Network/프로토콜.md",
+    "Network/캡슐화 역캡슐화.md",
     "Network/네트워크 구조.md",
+    "Network/OSI/OSI모델 전송 계층.md",
     "Network/OSI/OSI모델 물리 계층.md",
-    "programming/디자인 패턴/디자인 패턴.md",
-    "생성 패턴/생성 패턴.md",
-    "programming/README.md",
-    "생성 패턴.md",
-    "생성$20패턴.md"
+    "Network/OSI/OSI모델 데이터링크 계층.md",
+    "Network/OSI/OSI모델 네트워크 계층.md"
   ]
 }
