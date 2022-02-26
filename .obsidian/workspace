@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Network/OSI/OSI모델.md",
+            "file": "Network/OSI/OSI모델 응용 계층.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/OSI/OSI모델.md",
+                "file": "Network/OSI/OSI모델 응용 계층.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "6e8fbf024fd81875",
   "lastOpenFiles": [
+    "Network/OSI/OSI모델 응용 계층.md",
+    "Network/OSI/OSI모델 물리 계층.md",
+    "Network/OSI/OSI모델 전송 계층.md",
     "Network/OSI/OSI모델.md",
+    "Network/OSI/OSI모델 데이터링크 계층.md",
     "Network/LAN과 WAN.md",
     "Network/HTTP.md",
     "Network/프로토콜.md",
     "Network/캡슐화 역캡슐화.md",
-    "Network/네트워크 구조.md",
-    "Network/OSI/OSI모델 전송 계층.md",
-    "Network/OSI/OSI모델 물리 계층.md",
-    "Network/OSI/OSI모델 데이터링크 계층.md",
-    "Network/OSI/OSI모델 네트워크 계층.md"
+    "Network/네트워크 구조.md"
   ]
 }

@@ -16,6 +16,6 @@
    - 세션 체결, 통신 방식 결정
 6. 표현 계층(Presentation Layer)
    - 문자 코드, 압축, 암호화 등 데이터 변환
-7. 응용 계층(Application Layer)
+7. [응용 계층(Application Layer)](OSI모델%20응용%20계층.md)
    - 응용 프로세스와 관계하여 응용 서비스 수행
 
