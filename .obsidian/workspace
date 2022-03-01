@@ -9,12 +9,27 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Network/OSI/OSI모델 응용 계층.md",
+            "file": "AI/README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
           }
-        }
+        },
+        "group": "99b99a8fc59959f9"
+      },
+      {
+        "id": "1fc4dfe2b192ed80",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AI/README.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        },
+        "group": "99b99a8fc59959f9"
       }
     ],
     "direction": "vertical"
@@ -70,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/OSI/OSI모델 응용 계층.md",
+                "file": "AI/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +121,15 @@
   },
   "active": "6e8fbf024fd81875",
   "lastOpenFiles": [
+    "AI/README.md",
+    "AI/RNN.md",
+    "programming/Docker/Docker.md",
+    "programming/Docker/Docker 명령어.md",
+    "programming/Docker/Docker 문법.md",
+    "programming/README.md",
     "Network/OSI/OSI모델 응용 계층.md",
     "Network/OSI/OSI모델 물리 계층.md",
     "Network/OSI/OSI모델 전송 계층.md",
-    "Network/OSI/OSI모델.md",
-    "Network/OSI/OSI모델 데이터링크 계층.md",
-    "Network/LAN과 WAN.md",
-    "Network/HTTP.md",
-    "Network/프로토콜.md",
-    "Network/캡슐화 역캡슐화.md",
-    "Network/네트워크 구조.md"
+    "Network/OSI/OSI모델.md"
   ]
 }
