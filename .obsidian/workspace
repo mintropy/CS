@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/README.md",
+            "file": "programming/Docker/Docker Compose.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/README.md",
+                "file": "programming/Docker/Docker Compose.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "6e8fbf024fd81875",
   "lastOpenFiles": [
+    "programming/Docker/Docker Compose.md",
     "programming/README.md",
     "programming/Docker/Docker.md",
     "programming/Docker/Docker 문법.md",
@@ -114,7 +115,6 @@
     "AI/README.md",
     "AI/RNN.md",
     "Network/OSI/OSI모델 응용 계층.md",
-    "Network/OSI/OSI모델 물리 계층.md",
-    "Network/OSI/OSI모델 전송 계층.md"
+    "Network/OSI/OSI모델 물리 계층.md"
   ]
 }
