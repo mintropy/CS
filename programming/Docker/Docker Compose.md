@@ -1,5 +1,5 @@
 # Docker Compose
-**tags** : #programming #Docker 
+**tags** : #programming  #Docker 
 - 복수의 컨테이너를 실행시키기위한 Compose, 툴
 	- [Docker](Docker.md)
 - YAML 파일을 사용하여 구성할 수 있음
