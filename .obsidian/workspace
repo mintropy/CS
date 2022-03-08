@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6e8fbf024fd81875",
+        "id": "47063b36a2abbcf3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/Docker/Docker Compose.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/Docker/Docker Compose.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,14 +104,14 @@
     "direction": "horizontal",
     "width": 344
   },
-  "active": "6e8fbf024fd81875",
+  "active": "47063b36a2abbcf3",
   "lastOpenFiles": [
+    "README.md",
+    "programming/Docker/Docker.md",
     "programming/Docker/Docker Compose.md",
     "programming/Docker/Docker 문법.md",
     "programming/Docker/Docker 명령어.md",
-    "programming/Docker/Docker.md",
     "programming/README.md",
-    "README.md",
     "AI/README.md",
     "AI/RNN.md",
     "Network/OSI/OSI모델 응용 계층.md",

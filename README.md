@@ -1,3 +1,7 @@
+# 이 저장소는 더이상 사용되지 않습니다
+- https://github.com/mintropy/PKM 저장소를 확인해주세요
+
+---
 # <center>CS를 공부해 봅시다!</center>
 
 ## Operating System
